@@ -1,0 +1,3 @@
+F101 : UAE : England : 50
+F202 : UAE : USA : 40
+F303 : UAE : Canada : 0
